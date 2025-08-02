@@ -22,3 +22,10 @@ for char in n:
 ```
 
 ![This isImage]([https://en.wikipedia.org/wiki/Kerala#/media/File:Kathakali_BNC.jpg](https://octodex.github.com/images/vinyltocat.png))
+
+
+- [x] Finish this today itself
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
